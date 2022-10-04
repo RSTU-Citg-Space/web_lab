@@ -1,5 +1,7 @@
 # Лабораторная работа №4. Работа с DOM.
 
+**[Задания по Лабораторной работе №4](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AIB/Lab_4_DOM/Task.md)**
+
 ### Подсказки по CSS-стилям
 
 * `display: fixed` - зафиксированные объекты
