@@ -1,3 +1,4 @@
+import unittest
 from unittest import TestCase
 
 import fixtures
@@ -51,3 +52,5 @@ class TestSolution(TestCase):
             self.assertIsInstance(matrix, list, 'Метод должен возвращать список')
             result_string = '\n'.join([' '.join(list(map(str, line))) for line in matrix])
             self.assertEqual(result_string, value)
+if __name__ == '__main__':
+    unittest.main()
