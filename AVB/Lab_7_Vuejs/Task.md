@@ -5,7 +5,7 @@
 ## Задание 1. Реализации страницы Лента публикаций
 
 1. Сверстайте в HTML+CSS страницу Ленты публикаций по [прилагающемуся макету](https://github.com/RSTU-Citg-Space/web_lab/tree/frontend/AVB/Lab_7_Vuejs/Main_1200px.png) (для построения сетки используйте FlexBox или CSS Grid)
-2. Разработайте Vue-компонент с шаблоном для построения динамического списка публикаций, используя в качестве источника данных [JS-объект из приложенного файла](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AVB/Lab_7_Vuejs/content/data.json)
+2. Разработайте Vue-компонент с шаблоном для построения динамического списка публикаций, используя в качестве источника данных [JS-объект из приложенного файла](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AVB/Lab_7_Vuejs/content/data.js)
 3. Разработайте адаптивную версию в соответствии с [макетом](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AVB/Lab_7_Vuejs/Main_320px.png)
 
 ## Задание 2 (не обязательное). Реализации персональной страницы Автора
