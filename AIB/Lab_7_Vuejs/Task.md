@@ -2,6 +2,8 @@
 
 [Макеты в Figma называются Blog / Main - 1200px и Blog / Main - 320px](https://www.figma.com/file/SG6dBjfpRfansnrWjmDgcl/Wireframes?node-id=2232%3A28316)
 
+> В пером задании требуется доработать страницу, которую верстали в [Лабораторной работе #4](https://github.com/RSTU-Citg-Space/web_lab/tree/frontend/AIB/Lab_4_DOM) её можно взять за основу.
+
 ## Задание 1. Реализации страницы Лента публикаций
 
 1. Сверстайте в HTML+CSS страницу Ленты публикаций по [прилагающемуся макету](https://github.com/RSTU-Citg-Space/web_lab/tree/frontend/AIB/Lab_7_Vuejs/Main_1200px.png) (для построения сетки используйте FlexBox или CSS Grid)
