@@ -1,5 +1,4 @@
 import json
-from tests import TestSolution
 
 
 class Solution:
