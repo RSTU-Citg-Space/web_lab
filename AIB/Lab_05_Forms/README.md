@@ -1,6 +1,6 @@
 # Лабораторная работа №5. Основы работы с DOM. Преобразования документов
 
-**[Задания по Лабораторной работе №5](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AVB/Lab_5_Forms/Task.md)**
+**[Задания по Лабораторной работе №5](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AVB/Lab_05_Forms/Task.md)**
 
 ### Подсказки по HTML и CSS
 
