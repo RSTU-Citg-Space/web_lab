@@ -1,6 +1,6 @@
 # Основы работы с DOM. Преобразования документов
 
-За основу нужно взять результат **[Лабораторной работы №3](https://github.com/RSTU-Citg-Space/web_lab/tree/frontend/AVB/Lab_3%20-%20HTML%2C%20CSS%2C%20DOM%2C%20BOM)**
+За основу нужно взять результат **[Лабораторной работы №3](https://github.com/RSTU-Citg-Space/web_lab/tree/frontend/AVB/Lab_03_HTML_JS_Intro)**
 
 ## Задание 1
 
