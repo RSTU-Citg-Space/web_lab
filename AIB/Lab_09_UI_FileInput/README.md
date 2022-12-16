@@ -2,7 +2,7 @@
 
 В данной работе Вы научитесь работать с нативным средством асинхронного обмена данными между браузером и сервером — XMLHttpRequest.
 
-**[Задания по Лабораторной работе №9](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AIB/Lab_9_UI_FileInput/Task.md)**
+**[Задания по Лабораторной работе №9](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AIB/Lab_09_UI_FileInput/Task.md)**
 
 ### Подсказка по HTML-тегам
 

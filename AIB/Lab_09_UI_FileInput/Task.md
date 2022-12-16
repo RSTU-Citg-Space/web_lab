@@ -2,7 +2,7 @@
 
 [Компонент в Figma называется "Form Input [type=file]"](https://www.figma.com/file/SG6dBjfpRfansnrWjmDgcl/Wireframes?node-id=2232%3A28316)
 
-Статичное изображение поля расположено в файле [frame.png](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AIB/Lab_9_UI_FileInput/frame.png)
+Статичное изображение поля расположено в файле [frame.png](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AIB/Lab_09_UI_FileInput/frame.png)
 
 ## Задание 1. Реализации предпросмотра
 
