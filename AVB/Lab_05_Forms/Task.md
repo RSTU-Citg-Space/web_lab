@@ -11,6 +11,8 @@
 
 [Макет страницы](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AVB/Lab_5_Forms/Publication%20Form%20-%201200px.png)
 
+[Макет в Figma](https://www.figma.com/file/v6sazZfEzITN3Fv0t6ozoZ/Blog?node-id=49%3A0&t=6ZxMkfpLtowOOlrb-1)
+
 2. Реализовать браузерную валидацию полей ввода формы, имеющих условия валидности.
 3. Не обязательная задача. Реализовать адаптацию данной страницы под экраны смартфонов в соответствии с [макетом](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AVB/Lab_5_Forms/Publication%20Form%20-%20320px.png)
 

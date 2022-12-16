@@ -1,6 +1,6 @@
 # Frontend-приложение на базе Vue.js
 
-[Макеты в Figma называются Blog / Main - 1200px и Blog / Main - 320px](https://www.figma.com/file/SG6dBjfpRfansnrWjmDgcl/Wireframes?node-id=2232%3A28316)
+[Макеты в Figma называются Blog / Main - 1200px и Blog / Main - 320px](https://www.figma.com/file/v6sazZfEzITN3Fv0t6ozoZ/Blog?node-id=49%3A0&t=6ZxMkfpLtowOOlrb-1)
 
 ## Задание 1. Реализации страницы Лента публикаций
 
