@@ -26,7 +26,7 @@
 5. В карточках товаров изображения по ширине должны быть всегда на 100% своего родительского блока (item), а по высоте они должны сохранять свою исходную пропорцию.
 6. При наведение курсором на товар (на всю карточку / блок item) изображение этого товара должно становиться на 40% прозрачным (реализовать исключительно на CSS)
 
-![Макет для версии 320-640](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AIB/Lab_3_HTML_CSS/Frame-320px.png)
+![Макет для версии 320-640](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AIB/Lab_03_HTML_CSS/Frame-320px.png)
 
 ---------------------------
 
@@ -40,7 +40,7 @@
 4. Расположите по 3 карточки товара (item) встроку внутри блока main-catalog, горизонтальный отступ между карточками - 24px. 
 5. Расположите по 4 карточки товара (item) встроку внутри блока promo-catalog, горизонтальный отступ между карточками - 20px.
 
-![Макет для версии 1280+](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AIB/Lab_3_HTML_CSS/Frame-1280px.png)
+![Макет для версии 1280+](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AIB/Lab_03_HTML_CSS/Frame-1280px.png)
 
 ---------------------------
 
