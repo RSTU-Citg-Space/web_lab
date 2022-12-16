@@ -1,6 +1,6 @@
 # Лабораторная работа №6. Основы реализации Drag-n-Drop на JavaScript
 
-**[Задания по Лабораторной работе №6](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AIB/Lab_6_DnD/Task.md)**
+**[Задания по Лабораторной работе №6](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AIB/Lab_06_DnD/Task.md)**
 
 ### Подсказки по HTML и CSS
 

@@ -4,7 +4,7 @@
 
 ## Задание1. Реализация всплывающей формы авторизации
 
-1. На html-странице в шапку добавьте кнопку "Войти" в соответствии с [макетом](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AIB/Lab_6_DnD/Auth_Modal_1200px.png)
+1. На html-странице в шапку добавьте кнопку "Войти" в соответствии с [макетом](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AIB/Lab_06_DnD/Auth_Modal_1200px.png)
 2. Сверстайте скрытый блок, имеющий сплошной фон и содержащий:
    * Шапка блока с заголовком "Вход"
    * Однострочное обязательно поле ввода "Логин"
@@ -19,4 +19,4 @@
 
 ## Задание2. Не обязательное
 
-Реализовать адаптацию данной страницы и всплывающего окна под экраны смартфонов в соответствии с [макетом](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AIB/Lab_6_DnD/Auth_Modal_320px.png)
+Реализовать адаптацию данной страницы и всплывающего окна под экраны смартфонов в соответствии с [макетом](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AIB/Lab_06_DnD/Auth_Modal_320px.png)
