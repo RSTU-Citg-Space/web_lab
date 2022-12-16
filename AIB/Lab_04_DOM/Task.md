@@ -2,7 +2,7 @@
 
 ## Базовое задание
 
-1. Сверстайте в HTML+CSS макет приложенный к лабораторной в PNG-файле, и доступный по ссылке https://www.figma.com/file/SG6dBjfpRfansnrWjmDgcl/Wireframes?node-id=2221%3A27911 на фрейме "Blog / Main - 1200px"
+1. Сверстайте в HTML+CSS макет приложенный к лабораторной в PNG-файле, и доступный по ссылке https://www.figma.com/file/v6sazZfEzITN3Fv0t6ozoZ/Blog?node-id=49%3A0&t=6ZxMkfpLtowOOlrb-1 на фрейме "Blog / Main - 1200px"
 
 ![Макет для вёрстки](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AIB/Lab_04_DOM/Blog_Main_1200px.png)
 

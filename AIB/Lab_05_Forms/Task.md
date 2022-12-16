@@ -1,6 +1,6 @@
 # Элементы формы. События в JS, обработчики событий. 
 
-[Макеты в Figma](https://www.figma.com/file/SG6dBjfpRfansnrWjmDgcl/Wireframes?node-id=49%3A0)
+[Макеты в Figma](https://www.figma.com/file/v6sazZfEzITN3Fv0t6ozoZ/Blog?node-id=49%3A0&t=6ZxMkfpLtowOOlrb-1)
 * Blog / Registration
 * Blog / Publication Form
 

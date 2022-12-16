@@ -1,6 +1,6 @@
 # Поле загрузки файла с индикацией и предпросмотром
 
-[Компонент в Figma называется "Form Input [type=file]"](https://www.figma.com/file/SG6dBjfpRfansnrWjmDgcl/Wireframes?node-id=2232%3A28316)
+[Компонент в Figma называется "Form Input [type=file]"](https://www.figma.com/file/v6sazZfEzITN3Fv0t6ozoZ/Blog?node-id=49%3A0&t=6ZxMkfpLtowOOlrb-1)
 
 Статичное изображение поля расположено в файле [frame.png](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AIB/Lab_09_UI_FileInput/frame.png)
 
