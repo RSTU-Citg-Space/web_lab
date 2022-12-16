@@ -6,7 +6,7 @@
 
 Вам предстоит создать разметку HTML-документа, стилизовать элементы и организовать сетку, используя CSS, адаптировать вёрстку под различные размеры экранов, используя медиа-запросы.
 
-**[Задания по Лабораторной работе №3](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AIB/Lab_3_HTML_CSS/Task.md)**
+**[Задания по Лабораторной работе №3](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AIB/Lab_03_HTML_CSS/Task.md)**
 
 ### Подсказка по HTML-тегам
 
