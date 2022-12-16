@@ -4,13 +4,13 @@
 
 ## Задание 1. Реализации страницы Лента публикаций
 
-1. Сверстайте в HTML+CSS страницу Ленты публикаций по [прилагающемуся макету](https://github.com/RSTU-Citg-Space/web_lab/tree/frontend/AVB/Lab_7_Vuejs/Main_1200px.png) (для построения сетки используйте FlexBox или CSS Grid)
-2. Разработайте Vue-компонент с шаблоном для построения динамического списка публикаций, используя в качестве источника данных [JS-объект из приложенного файла](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AVB/Lab_7_Vuejs/content/data.js)
-3. Разработайте адаптивную версию в соответствии с [макетом](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AVB/Lab_7_Vuejs/Main_320px.png)
+1. Сверстайте в HTML+CSS страницу Ленты публикаций по [прилагающемуся макету](https://github.com/RSTU-Citg-Space/web_lab/tree/frontend/AVB/Lab_07_Vuejs/Main_1200px.png) (для построения сетки используйте FlexBox или CSS Grid)
+2. Разработайте Vue-компонент с шаблоном для построения динамического списка публикаций, используя в качестве источника данных [JS-объект из приложенного файла](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AVB/Lab_07_Vuejs/content/data.js)
+3. Разработайте адаптивную версию в соответствии с [макетом](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AVB/Lab_07_Vuejs/Main_320px.png)
 
 ## Задание 2 (не обязательное). Реализации персональной страницы Автора
 
-1. Сверстайте в HTML+CSS персональную страницу Автора по [прилагающемуся макету](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AVB/Lab_7_Vuejs/Author_1200px.png) (для построения сетки используйте FlexBox или CSS Grid)
+1. Сверстайте в HTML+CSS персональную страницу Автора по [прилагающемуся макету](https://github.com/RSTU-Citg-Space/web_lab/blob/frontend/AVB/Lab_07_Vuejs/Author_1200px.png) (для построения сетки используйте FlexBox или CSS Grid)
 2. Доработайте Vue-компонент из Задания 1, так чтобы он мог фильтровать публикации по автору и выводить ленту публикаций конкретного автора, страницу, которого мы просматриваем.
 3. Дополните страницу Автора персональными мета-данными из другого JS-файла источника данных, самостоятельно организовав этот файл так, как вам кажется правильным, и заполнив его параметрами, которые считаете важными. 
 
